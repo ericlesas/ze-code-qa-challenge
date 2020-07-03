@@ -1,4 +1,4 @@
-##1 - Finalizar compra.
+## 1 - Finalizar compra.
 
 A finalização da compra permite ao usuário verificar se os dados de recebimento, e o valor a pagar estão de acordo com o esperado.
 
@@ -8,7 +8,7 @@ Caso o cliente faça as operações corretas, mas ao finalizar a compra, observe
 
 Além dos itens descritos acima vale ressaltar a importância da verificação do endereço de recebimento, para que não ocorra entrega em local adverso, evitando estresse ao usuário e entregador. 
 
-##2. Sacola 
+## 2. Sacola 
 
 Na sacola de pedidos, são armazenadas todas as escolhas dos usuários, para seja possível ele adicionar itens de compra e continuar sua navegação no aplicativo.
 
@@ -27,7 +27,7 @@ Quando o cliente adiciona um item a sacola, e retorna para escolha de outros pro
 No aplicativo é disposto um valor mínimo do pedido, para evitar prejuízos para as partes envolvidas no processo de compra e venda. Pensando no usuário, em um pedido abaixo de R$19,00 o frete pode ser igual ou superior ao valor do pedido, o que não compensaria financeiramente para o cliente. No caso da distribuidora, como os produtos disponíveis no aplicativo possuem preços mais baixos, a separação e envio dessa venda seria mais caro, do que o próprio valor a ser recebido com ela, gerando mais gastos do que lucro.
 
 
-##3 - Adicionar item a sacola
+## 3 - Adicionar item a sacola
 
 No item acima foi descrito a importância do funcionamento correto da “Sacola”, mas antes que o cliente chegue a esse ponto é necessário que ele consiga incluir os produtos desejados a ela, para dar continuidade na compra.
 
