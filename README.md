@@ -1,7 +1,7 @@
 ## QA Challenge
 
 ### Sobre o desenvolvimento
-Para o desenolvimento dos testes foi utilizado o **Maven** para gerenciar as dependências do projeto,
+Para o desenvolvimento dos testes foi utilizado o **Maven** para gerenciar as dependências do projeto,
 a linguagem de programação **java** versão 1.8 para codificação, 
 **JUnit** para execução de métodos, e o **Selenium** para fazer conexão com a web.
 ###Instruções para análise do desafio
