@@ -6,7 +6,12 @@ a linguagem de programação **java** versão 1.8 para codificação,
 **JUnit** para execução de métodos, e o **Selenium** para fazer conexão com a web.
 ### Instruções para análise do desafio
 
-##### 1. Inserir as seguintes depêndencias no arquivo pom.xml 
+##### 1. Instalação do chrome driver
+
+Os testes de navegação foram feitos no Google Chrome, para isso é necessário adicionar o arquivo ao projeto, com uma versão equivalente, ou abaixo da atual versão do seu navegador, o download pode ser feito pelo link: 
+https://chromedriver.chromium.org/downloads
+
+##### 2. Inserir as seguintes depêndencias no arquivo pom.xml 
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -26,7 +31,7 @@ a linguagem de programação **java** versão 1.8 para codificação,
             <version>4.3.0</version>
         </dependency>
         
-##### 2. A execução dos testes deverá ser feita nas seguintes classes:
+##### 3. A execução dos testes deverá ser feita nas seguintes classes:
 
 * [Ui Automation](https://github.com/ericlesas/ze-code-qa-challenge/blob/master/src/test/java/ui_automation/suites/BuyBeer.java)
 * [Api Automation](https://github.com/ericlesas/ze-code-qa-challenge/blob/master/src/test/java/api_automation/suites/GetWeather.java)
